@@ -27,6 +27,8 @@
         _allButtonPressedUntilNow = [[NSMutableArray alloc] init];
 //        [_allButtonPressedUntilNow addObject:@"="];
     }
+    
+    
     return _allButtonPressedUntilNow;
     
 }
